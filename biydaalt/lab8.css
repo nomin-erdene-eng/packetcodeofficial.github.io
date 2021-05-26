@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+.header {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDGS4TlNEy6M-xtNkTtUGEATnJRGQAJQeDwg&usqp=CAU);
+	text-align: center;
+	padding: 50px;
+	color: white;
+	
+}
+.have h2{
+	font-family: 'New Tegomin', serif;
+	font-size: 100px;
+}
+.header h1{
+	font-family: 'Chango', cursive;
+	font-size: 20px;
+}
+.header p{
+font-size: 25px;
+ font-family: 'Open Sans', sans-serif;
+
+
+}
+.header button{
+	background-color: #eb21bf;
+	color: white;
+}
+.container div{
+	width: 50%;
+}
+.container {
+	display: flex;
+}
+.imagine img{
+	border-radius: 50%;
+}
+.imagine{
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.footer{
+	background: darkgrey;
+	color:rgb(236, 78, 104);
+	text-align: right;
+	height: 40px;
+	font-size: 20px;
+
+}
+.footer h4{
+	margin-top: 10px;
+	
+}
